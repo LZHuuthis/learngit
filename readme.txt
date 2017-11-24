@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 UUID
 Git tracks changes of files.
 Query.
+Creating a new branch is quick.
